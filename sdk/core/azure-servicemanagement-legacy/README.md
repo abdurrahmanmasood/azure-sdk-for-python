@@ -221,7 +221,7 @@ trouble with the provided code.
 If you would like to become an active contributor to this project please
 follow the instructions provided in [Microsoft Azure Projects
 Contribution
-Guidelines](http://azure.github.io/guidelines.html).
+Guidelines](https://azure.github.io/guidelines.html).
 
 If you encounter any bugs with the library please file an issue in the
 [Issues](https://github.com/Azure/azure-sdk-for-python/issues)
@@ -231,7 +231,7 @@ section of the project.
 # Learn More
 
 [Microsoft Azure Python Developer
-Center](http://azure.microsoft.com/develop/python/)
+Center](https://azure.microsoft.com/develop/python/)
 
 
 ![Impressions](https://azure-sdk-impressions.azurewebsites.net/api/impressions/azure-sdk-for-python%2Fazure-servicemanagement-legacy%2FREADME.png)
